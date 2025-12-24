@@ -36,6 +36,10 @@ L'utilité de ce projet est de mettre en pratique des compétences de traitement
 
 >**_Attention :_** Évitez de modifier l'arborescence du projet pour ne pas casser les url !
 
+## Résultat
+
+<img width="1501" height="579" alt="fingerprint_recognition4" src="https://github.com/user-attachments/assets/a992af3e-f481-46c7-8dc5-87b86a924362" />
+
 ## Auteur
 
 Réalisé par Octave GANZHORN, Thomas GOUTH, Alexandre PAULY, Laura SABADIE.
